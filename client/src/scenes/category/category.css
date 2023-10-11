@@ -1,0 +1,55 @@
+.category-list-item {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.category-avatar {
+    width: 64px;
+    height: 64px;
+}
+
+.category-title {
+    margin-left: 10px;
+}
+
+.css-47iiw-MuiTypography-root {
+    font-size: 16px !important;
+}
+
+.css-518kzi-MuiListItemSecondaryAction-root {
+    right: 13% !important;
+}
+
+.css-1rv476z-MuiInputBase-input-MuiFilledInput-input{
+    font-size: 16px !important;
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+    font-size: 16px !important;
+}
+.css-bj2p8a-MuiPaper-root-MuiCard-root{
+    background-color: transparent !important;
+    background-image: none !important;
+}
+.css-bhp9pd-MuiPaper-root-MuiCard-root{
+    background-color: transparent !important;
+    /* background-image: none !important; */
+}
+
+.css-1jmvhar-MuiListItem-root,
+.css-strrak-MuiListItem-root {
+    border: 1px solid gray !important;
+    margin-bottom: 12px !important;
+    border-radius: 5px !important; 
+}
+
+.css-32yp37-MuiFormControl-root-MuiTextField-root{
+    margin-bottom: 0% !important;
+}
+
+.category .css-1rv476z-MuiInputBase-input-MuiFilledInput-input {
+    padding: 12px !important;
+}
+
+.css-hr3edb-MuiTypography-root{
+    margin-bottom: 10px !important;
+}

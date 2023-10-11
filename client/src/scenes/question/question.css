@@ -1,0 +1,24 @@
+.css-wied2b-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+.css-p6qti8-MuiInputBase-root-MuiOutlinedInput-root{
+    font-size: 18px !important;
+}
+.css-wxl1jl-MuiInputBase-root-MuiOutlinedInput-root{
+    font-size: 18px !important;
+}
+
+.css-mhc70k-MuiGrid-root {
+    margin-top: 0% !important;
+}
+
+.css-mhc70k-MuiGrid-root>.MuiGrid-item{
+    padding-top: 0% !important;
+}
+
+.css-j38jpb-MuiListItem-root,
+.css-l3o88l-MuiListItem-root{
+    border: 1px solid gray !important;
+    margin-bottom: 12px !important;
+    border-radius: 5px;
+}
